@@ -1,4 +1,4 @@
-library iconify_flutter;
+library iconify_flutter_plus;
 
 import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/flutter_svg.dart';

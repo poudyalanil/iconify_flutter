@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:iconify_flutter/iconify_flutter.dart';
-import 'package:iconify_flutter/icons/zondicons.dart'; // for Non Colorful Icons
+import 'package:iconify_flutter_plus/iconify_flutter_plus.dart';
+import 'package:iconify_flutter_plus/icons/zondicons.dart'; // for Non Colorful Icons
 
 void main() {
   runApp(const MyApp());
