@@ -1,4 +1,4 @@
-This is upgraded version of package <b>iconify_flutter(https://pub.dev/packages/iconify_flutter)</b>
+This is upgraded version of package <b>[iconify_flutter](https://pub.dev/packages/iconify_flutter)</b>
 
 Before starting ✋. I want to tell you that every star 🌟 added to my space shines my world and motivate me 💪 to make more awesome things like this one so please don't forget to give me a star and like the project.
 
