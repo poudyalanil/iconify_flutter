@@ -1,4 +1,4 @@
-library iconify_flutter;
+library iconify_flutter_plus;
 
 import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/flutter_svg.dart';
@@ -27,7 +27,8 @@ class Iconify extends StatelessWidget {
   Widget build(BuildContext context) {
     return SvgPicture.string(
       icon,
-      color: color,
+      colorFilter:
+          color != null ? ColorFilter.mode(color!, BlendMode.srcIn) : null,
       width: size,
       height: size,
       alignment: Alignment.center,
